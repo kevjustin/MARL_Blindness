@@ -1,0 +1,4 @@
+torch>=2.0
+numpy
+tqdm
+vmas>=1.4.0
